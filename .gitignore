@@ -1,0 +1,9 @@
+# Ignorar arquivos de ambiente
+**/.env
+js/.env
+py/.env
+
+# Ignorar dependências e arquivos temporários
+node_modules/
+__pycache__/
+*.log
